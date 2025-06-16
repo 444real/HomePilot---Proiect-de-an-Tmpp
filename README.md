@@ -51,5 +51,4 @@ SmartHomeConsoleApp/
 ├── Singleton/
 ├── Facade/
 
-Proiect realizat pentru a demonstra design pattern-uri moderne într-un context de smart home!
-Pentru orice extindere, vezi comentariile din cod sau scrie în issues/discuții.
+Proiect realizat pentru a demonstra design pattern-uri moderne într-un context de smart home.
